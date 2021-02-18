@@ -1,4 +1,4 @@
-# Indexador
+# Indexador de Mp3
 
 Servicio que analiza los ficheros de disco (de forma recursiva) en busca de archivos '.mp3'.
 Una vez encuentra el arhivo mp3, procede a subirlo a una base de datos.
